@@ -26,5 +26,5 @@ How To Run
 =============
 * ***Make sure you installed Json-server***
 * ***Install node modules***
-* ***In terminal Inside the folder, run: npm install, npm start, npm run start-json-server ***
+* ***In terminal Inside the folder, run: npm install, npm start, npm run start-json-server***
 * ***Application and Json server starts in different port***
