@@ -1,0 +1,148 @@
+{
+  "stats": [
+    {
+      "averageAge": "47.50",
+      "youngest": {
+        "name": {
+          "title": "mr",
+          "first": "cameron",
+          "last": "bosscher"
+        },
+        "age": 21
+      },
+      "oldest": {
+        "name": {
+          "title": "mr",
+          "first": "oswald",
+          "last": "dallmann"
+        },
+        "age": 74
+      },
+      "mostNorthern": {
+        "location": "granada",
+        "name": {
+          "title": "miss",
+          "first": "rosa",
+          "last": "nieto"
+        }
+      },
+      "mostSouthern": {
+        "location": "beaumont",
+        "name": {
+          "title": "mrs",
+          "first": "lea",
+          "last": "claire"
+        }
+      },
+      "id": 1
+    },
+    {
+      "averageAge": "47.74",
+      "youngest": {
+        "name": {
+          "title": "mrs",
+          "first": "edna",
+          "last": "kelly"
+        },
+        "age": 21
+      },
+      "oldest": {
+        "name": {
+          "title": "mrs",
+          "first": "emilie",
+          "last": "côté"
+        },
+        "age": 74
+      },
+      "mostNorthern": {
+        "location": "dunedin",
+        "name": {
+          "title": "mr",
+          "first": "aidan",
+          "last": "clarke"
+        }
+      },
+      "mostSouthern": {
+        "location": "toledo",
+        "name": {
+          "title": "mr",
+          "first": "ernesto",
+          "last": "lorenzo"
+        }
+      },
+      "id": 2
+    },
+    {
+      "averageAge": "47.77",
+      "youngest": {
+        "name": {
+          "title": "mr",
+          "first": "efe",
+          "last": "sezek"
+        },
+        "age": 21
+      },
+      "oldest": {
+        "name": {
+          "title": "mr",
+          "first": "gustav",
+          "last": "larsen"
+        },
+        "age": 74
+      },
+      "mostNorthern": {
+        "location": "inverness",
+        "name": {
+          "title": "mr",
+          "first": "vincent",
+          "last": "lo"
+        }
+      },
+      "mostSouthern": {
+        "location": "rønnede",
+        "name": {
+          "title": "mr",
+          "first": "kasper",
+          "last": "christiansen"
+        }
+      },
+      "id": 3
+    },
+    {
+      "averageAge": "47.10",
+      "youngest": {
+        "name": {
+          "title": "mr",
+          "first": "mathéo",
+          "last": "joly"
+        },
+        "age": 22
+      },
+      "oldest": {
+        "name": {
+          "title": "mrs",
+          "first": "مهرسا",
+          "last": "احمدی"
+        },
+        "age": 74
+      },
+      "mostNorthern": {
+        "location": "galway",
+        "name": {
+          "title": "mrs",
+          "first": "sharron",
+          "last": "chapman"
+        }
+      },
+      "mostSouthern": {
+        "location": "savukoski",
+        "name": {
+          "title": "mrs",
+          "first": "nella",
+          "last": "takala"
+        }
+      },
+      "id": 4
+    }
+  ]
+}
